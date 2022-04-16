@@ -3,7 +3,7 @@ description: "Great someone"
 author: "octoacat@github.com"
 
 inputs:
-  myname:
+  My_Name:
     description: "who to greet"
     required: true
     default: "world"
